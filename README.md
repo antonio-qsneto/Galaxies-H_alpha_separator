@@ -1,4 +1,4 @@
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/astropy)
+![PyPI](https://img.shields.io/pypi/v/astropy?logo=python&logoColor=white&style=plastic)
 # Identification and separation of active galaxy spectra by the Hα emission line
 
 ![Alt text](/galaxies/spec-figure.png?raw=true "Galaxy scpectrum plot")
