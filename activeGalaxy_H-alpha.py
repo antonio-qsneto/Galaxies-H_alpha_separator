@@ -18,8 +18,6 @@ path = os.getcwd()
 tree1 = path+'/agn/'
 tree2 = path+'/normal/'
 
-# Programa para separação de espectros h_alpha de N dimensões
-
 for filename in os.listdir('galaxies/'):
     if filename.endswith('.fits'):
         fit = pyfits.open('galaxies/' + filename)
